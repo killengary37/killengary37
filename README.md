@@ -80,7 +80,7 @@ I’m a **Frontend-focused Developer** who builds fast, scalable, and visually e
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gary-killen/">LinkedIn</a> •
-  <a href="gary.killen@crimsonpeaksstudio.com">Email</a>
+  <a href="mailto:gary.killen@crimsonpeaksstudio.com">Email</a>
 </p>
 
 ---
