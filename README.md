@@ -1,8 +1,7 @@
 <!-- 🔥 HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Gary%20|%20Frontend%20Engineer&fontSize=40&fontColor=00F7FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Gary%20%7C%20Frontend%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=TypeScript%20•%20Next.js%20•%20GSAP&descAlignY=75" />
 </p>
-
 <!-- 💻 TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=TypeScript+%7C+Next.js+Developer;Frontend+Focused%2C+Fullstack+Capable;Building+Smooth+UI+with+GSAP;Clean+Code+%2B+Modern+Design" />
@@ -48,17 +47,17 @@ I’m a **Frontend-focused Developer** who builds fast, scalable, and visually e
 
 # 🚀 Featured Projects
 
-## 🔗 Project Name
-- Built with: Next.js, TypeScript, Tailwind, GSAP  
-- Key feature: Smooth scroll animations + optimized performance  
-- Link: https://github.com/YOUR_USERNAME/project
+## 🔗 EquiTrade
+- Built with: Next.js, TypeScript, TailwindCSS, GSAP  
+- Key features: Real-time stock data, interactive charts, smooth UI animations, and performance-optimized rendering  
+- Link: https://github.com/killengary37/equitrade-stock-app
 
 ---
 
-## 🔗 Project Name
-- Built with: Next.js + API routes  
-- Key feature: Fullstack functionality (auth, database)  
-- Link: https://github.com/YOUR_USERNAME/project
+## 🔗 MacBook GSAP Landing
+- Built with: Next.js, TypeScript, TailwindCSS, GSAP  
+- Key features: GSAP-powered scroll animations, cinematic transitions, and immersive UI interactions  
+- Link: https://github.com/killengary37/macbook-gsap-delta
 
 ---
 
@@ -80,8 +79,8 @@ I’m a **Frontend-focused Developer** who builds fast, scalable, and visually e
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://www.linkedin.com/in/gary-killen/">LinkedIn</a> •
+  <a href="gary.killen@crimsonpeaksstudio.com">Email</a>
 </p>
 
 ---
