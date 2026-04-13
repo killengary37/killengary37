@@ -55,7 +55,7 @@ I’m a **Frontend-focused Developer** who builds fast, scalable, and visually e
 
 ---
 
-## 🔗 MacBook GSAP Landing
+## 🔗 MacBook GSAP 
 - Built with: Next.js, TypeScript, TailwindCSS, GSAP  
 - Key features: GSAP-powered scroll animations, cinematic transitions, and immersive UI interactions  
 - Link: https://github.com/killengary37/macbook-gsap-delta
