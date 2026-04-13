@@ -51,7 +51,7 @@ I’m a **Frontend-focused Developer** who builds fast, scalable, and visually e
 - Built with: Next.js, TypeScript, TailwindCSS, GSAP  
 - Key features: Real-time stock data, interactive charts, smooth UI animations, and performance-optimized rendering  
 - Link: https://github.com/killengary37/equitrade-stock-app
-- Link: https:equitrade-stock-app.vercel.app
+- Link: https://equitrade-stock-app.vercel.app
 
 ---
 
